@@ -6,7 +6,7 @@ contains some of contents
 
 
 ## Week 2
-
+i) [Linear_regression_model_mlt](https://www.kaggle.com/code/shailx/linear-regression-model)
 
 ## Week 3
 i) [Polynomial transformation in colab or Polynomial regression](https://www.kaggle.com/shailx/polynomial-regression/edit)
