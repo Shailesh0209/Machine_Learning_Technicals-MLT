@@ -10,13 +10,13 @@ contains some of contents
 2. x_w2_L12: [Linear_Regression: Combining_all_components](https://www.kaggle.com/shailx/linear-regression-combining-all-components/edit)
 
 ## Week 3
-i) [Polynomial transformation in colab or Polynomial regression](https://www.kaggle.com/shailx/polynomial-regression/edit)
+1. [Polynomial transformation in colab or Polynomial regression](https://www.kaggle.com/shailx/polynomial-regression/edit)
 
 
-[2](https://www.kaggle.com/code/shailx/linear-regression-1/edit/run/96091208)
 
 
-[w3_L3/Polynomial regression](url)
+
+
 
 ## Week 4
 
