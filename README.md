@@ -9,7 +9,8 @@ contains some of contents
 i) [Linear_regression_model_mlt](https://www.kaggle.com/code/shailx/linear-regression-model)
 
 ## Week 3
-i) [Polynomial transformation in colab or Polynomial regression](https://www.kaggle.com/shailx/polynomial-regression/edit)
+1.  [Polynomial transformation in colab or Polynomial regression](https://www.kaggle.com/shailx/polynomial-regression/edit)
+2. [Ridge and Lasso regression](https://www.kaggle.com/shailx/ridge-and-lassor-regression/edit)
 
 
 ## Week 4
