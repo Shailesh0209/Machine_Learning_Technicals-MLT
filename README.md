@@ -15,7 +15,8 @@ contains some of contents
 
 
 ## Week 4
-1. [](url)
+1. W4/L4: [Least Square Classification from Scratch](https://www.kaggle.com/shailx/least-square-classification-from-scratch/edit)
+2. W4_L7: [Demonstration of Perceptron](https://www.kaggle.com/shailx/demonstration-of-perceptron/edit)
 
 ## Week 5
 1. [](url)
