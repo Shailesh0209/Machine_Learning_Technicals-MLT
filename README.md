@@ -1,12 +1,12 @@
 # x_Machine_Learning_Technicals-Theory--diploma-IITM
-contains some of contents 
+contains some of contents p
 
 
 ## Week1
 
 
 ## Week 2
-1. [Linear_regression_model_mlt](https://www.kaggle.com/code/shailx/linear-regression-model)
+1. [Linear_regression_model](https://www.kaggle.com/code/shailx/linear-regression-model)
 2. w2_L12: [Linear_Regression: Combining_all_components](https://www.kaggle.com/shailx/linear-regression-combining-all-components/edit)
 
 ## Week 3
