@@ -12,6 +12,7 @@ contains some of contents p
 ## Week 3
 1. W3_L3: [Polynomial transformation in colab or Polynomial regression](https://www.kaggle.com/shailx/polynomial-regression/edit)
 2. w3/L6: [Ridge and Lasso regression](https://www.kaggle.com/shailx/ridge-and-lasso-regression/edit)
+3. w3/L9: [Multi-output/Multi-label Regression](https://www.kaggle.com/shailx/multi-output-multi-label-regression/edit)
 
 
 ## Week 4
