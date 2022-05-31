@@ -1,6 +1,7 @@
 # x_Machine_Learning_Technicals-Theory--diploma-IITM
 contains some of contents p
 
+Google cloud lecture: YouTube playlist [Making friend with machine Learning ](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 
 ## Week1
 
@@ -20,7 +21,8 @@ contains some of contents p
 2. W4_L7: [Demonstration of Perceptron](https://www.kaggle.com/shailx/demonstration-of-perceptron/edit)
 
 ## Week 5
-1. [](url)
+1. W5/L4: [LogisticRegressionFromScratch](https://www.kaggle.com/shailx/logisticregressionfromscratch/edit)
+2. w5/L5/6: [Logistic Regression Demonstration](https://www.kaggle.com/shailx/logistic-regression-demonstration/edit)
 
 ## Week 6
 1. [](url)
