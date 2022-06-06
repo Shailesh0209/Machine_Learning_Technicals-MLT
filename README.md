@@ -19,6 +19,8 @@ Google cloud lecture: YouTube playlist [Making friend with machine Learning ](ht
 ## Week 4
 1. W4/L4: [Least Square Classification from Scratch](https://www.kaggle.com/shailx/least-square-classification-from-scratch/edit)
 2. W4_L7: [Demonstration of Perceptron](https://www.kaggle.com/shailx/demonstration-of-perceptron/edit)
+3. [MLT/MLP/Quiz -1/prepartion](https://www.kaggle.com/shailx/mlt-mlp-quiz-1/edit)
+
 
 ## Week 5
 1. W5/L4: [LogisticRegressionFromScratch](https://www.kaggle.com/shailx/logisticregressionfromscratch/edit)
