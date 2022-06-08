@@ -1,5 +1,6 @@
 # x_Machine_Learning_Technicals-Theory--diploma-IITM
-contains some of contents p
+
+YouTube Playlist by IITM: [Machine Learning Techniques](https://www.youtube.com/watch?v=ZXirVUPu_lY&list=PLZ2ps__7DhBbim4oKfdSdOpLyUwNd8UQL)
 
 Google cloud lecture: YouTube playlist [Making friend with machine Learning ](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 
