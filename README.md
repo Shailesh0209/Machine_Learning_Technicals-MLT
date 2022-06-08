@@ -3,6 +3,8 @@ contains some of contents p
 
 Google cloud lecture: YouTube playlist [Making friend with machine Learning ](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 
+Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
 ## Week1
 
 
