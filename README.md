@@ -30,7 +30,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 2. w5/L5/6: [Logistic Regression Demonstration](https://www.kaggle.com/shailx/logistic-regression-demonstration/edit)
 
 ## Week 6
-1. W6/Lec3: [Bernoulli Naive Bayes classifier](https://www.kaggle.com/shailx/bernoulli-naive-bayes-classifier/edit)
+1. W6/Lec3/4/5: [Naive Bayes classifier](https://www.kaggle.com/shailx/bernoulli-naive-bayes-classifier/edit)
 
 
 ## Week 7
