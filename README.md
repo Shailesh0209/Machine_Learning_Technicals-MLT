@@ -35,6 +35,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 ## Week 7
 1. W7_L2: [Softmax Regression](https://www.kaggle.com/shailx/softmax-regression/edit)
+2. W7_L4: [KNearestNeighbors](https://www.kaggle.com/shailx/knearestneighbors/edit)
 
 
 ## Week 8
