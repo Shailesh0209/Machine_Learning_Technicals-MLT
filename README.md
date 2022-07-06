@@ -42,7 +42,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 1. W8_L4: [Soft margin SVM](https://www.kaggle.com/shailx/soft-margin-svm/edit)
 
 ## Week 9
-1. [](url)
+1. W9_L4: [Implementing Decision Tree from Scratch](https://www.kaggle.com/shailx/implementing-decision-tree-from-scratch/edit)
 
 ## Week 10
 1. [](url)
