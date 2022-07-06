@@ -46,7 +46,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 ## Week 10
 1. W10_L2: [Bagging and Random Forest](https://www.kaggle.com/shailx/bagging-and-random-forest/edit)
-2. W10
+2. W10_L4: [Implementation of GradBoost](https://www.kaggle.com/shailx/implementation-of-gradboost/edit)
 
 ## Week 11
 1. [](url)
